@@ -43,7 +43,7 @@ transcribe/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Sohagsrz/video-to-transcribe.git
 cd your-repo
 
 # Install Python dependencies
