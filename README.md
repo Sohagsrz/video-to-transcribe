@@ -13,6 +13,19 @@ A web app to upload video files, extract audio, transcribe speech to text using 
 - Error handling for invalid files and processing issues
 - Simple Bootstrap UI
 
+## Project Structure
+
+```
+transcribe/
+├── temp/                # Temporary files (audio, transcripts)
+├── templates/           # Jinja2 HTML templates
+│   └── index.html
+├── .gitignore           # Git ignore file
+├── main.py              # Main FastAPI application
+├── README.md            # Project documentation
+├── requirements.txt     # Python dependencies
+```
+
 ## Tech Stack
 
 - FastAPI (backend)
